@@ -1,2 +1,3 @@
 rm -r /tmp/my_first_directory
 #!/bin/bas
+#!/bin/bash
