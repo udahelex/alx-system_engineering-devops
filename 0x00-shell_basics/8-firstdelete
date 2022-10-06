@@ -1,4 +1,2 @@
-mv /tmp/betty /tmp/my_first_directory >8-firstdelete
-
-echo mv /tmp/betty /tmp/my_first_directory
 #!/bin/bash
+rm/tmp/my_first_directory/betty
