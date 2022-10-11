@@ -1,1 +1,1 @@
-echo hello,world
+printf hello,worldn
